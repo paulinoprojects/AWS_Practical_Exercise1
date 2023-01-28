@@ -5,7 +5,7 @@
 - The objective and endstate is to supplement my resume and cover letter, and to encourage/assist others to follow the walkthrough.
 - The next sections are the overview and walkthrough used to build the site. 
 <br>
-Note: This walkthrough assumes that you own a registered domain name.
+Note: This walkthrough assumes that you own a registered domain name. If you do not, here is a walkthrough and requires you to purchase: https://aws.amazon.com/getting-started/hands-on/get-a-domain/
 </br>
 
 ## Overview of Resources/Requirements
