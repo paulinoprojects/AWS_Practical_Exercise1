@@ -1,4 +1,4 @@
-Host a Static Website on AWS (free-tier) to Showcase Personal Portfolio
+# Host a Static Website on AWS (free-tier) to Showcase Personal Portfolio
 
 ## The What and Why
 - In this exercise, we are going to host a static website on AWS utilizing security and engineering best practices and industry standards.
