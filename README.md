@@ -15,6 +15,11 @@ Note: This walkthrough assumes that you own a registered domain name.
 - AWS Certificate Manager, SSL/TLS X.509 certificates and keys that protect your content: https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html
 - Web Design HTML, free templates avaliable (this will require you to understand HTML code and syntax:  https://html.com/resources/free-html-templates/
 
+
+## Design
+![Design](https://user-images.githubusercontent.com/111991325/215237916-bd83b20d-1474-48ae-a774-cf0a42abd569.png)
+
+
 ## Workflow
 1. Select a template and make adjustments to your code to fit your portfolio requirements.
 2. Create/Configure an Amazon S3 bucket to store your website files. 
