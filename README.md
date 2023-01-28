@@ -12,6 +12,7 @@ Note: This walkthrough assumes that you own a registered domain name.
 - S3 Bucket, to store/host your static website and files:  https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 - Route 53, to map a domain name to your bucket: https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html
 - Cloudfront, to securely/efficently deliver your content to viewers: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
+- AWS Certificate Manager, SSL/TLS X.509 certificates and keys that protect your content: https://docs.aws.amazon.com/acm/latest/userguide/acm-overview.html
 - Web Design HTML, free templates avaliable (this will require you to understand HTML code and syntax:  https://html.com/resources/free-html-templates/
 
 ## Workflow
