@@ -1,6 +1,6 @@
-# AWS - Host a static website for free
+# AWS - Host a Static Website on AWS (free-tier) 
 
-## Design
+## The What and Why
 - In this exercise, we are going to host a static website on AWS utilizing security and engineering best practices and industry standards.
 - The objective and endstate is to supplement my resume and cover letter, and to encourage/assist others to follow the walkthrough.
 - The next sections are the overview and walkthrough used to build the site. 
@@ -8,7 +8,7 @@
 Note: This walkthrough assumes that you own a registered domain name.
 </br>
 
-## Overview of resources
+## Overview of Resources/Requirements
 - S3 Bucket, to store/host your static website and files:  https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 - Route 53, to map a domain name to your bucket: https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html
 - Cloudfront, to securely/efficently deliver your content to viewers: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
