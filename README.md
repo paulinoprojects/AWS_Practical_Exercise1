@@ -1,4 +1,4 @@
-# Host a Static Website on AWS to Showcase Portfolio
+# Host a Static Website on AWS as a Professional Portfolio
 
 ## The What and Why
 - In this exercise, we are going to host a static website on AWS utilizing security and engineering best practices and industry standards.
