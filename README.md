@@ -31,3 +31,6 @@ Note: This walkthrough assumes that you own a registered domain name. If you do 
 <br>
 NOTE: You will be charged for the usage of Cloudfront and S3 but the free tier will cover most of the small static websites. You can check the pricing for S3 and Cloudfront on the AWS website.
 </br>
+
+# View my Website - Profesional Portfolio
+www.paulinoprojects.com
